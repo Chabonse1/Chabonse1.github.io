@@ -1,0 +1,14 @@
+﻿h1
+{
+    background-color: crimson;
+    padding: 60px;
+    color: mintcream;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+}
